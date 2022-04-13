@@ -1,0 +1,1 @@
+2022-04-11T23:26:31+00:00 ERROR admin@validatePostApiKey :: 500 :: CURL error :: SSL certificate problem: unable to get local issuer certificate on 1928 in C:\wamp64\www\coffeeshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
